@@ -26,7 +26,7 @@
     },
     "homepage": "https://github.com/Sonaryr/eleventy-plugin-sass",
     "peerDependencies": {
-        "@11ty/eleventy": "^0.x"
+        "@11ty/eleventy": "^1.x.x"
     },
     "dependencies": {
         "chalk": "^2.4.2",
